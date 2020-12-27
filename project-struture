@@ -1,0 +1,7 @@
+targets
+  /[target-name]
+   /main-tree.yaml
+   /[usecase-name]
+    *.yaml
+   /[leaf-name]
+    *.yaml
